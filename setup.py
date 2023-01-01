@@ -7,7 +7,7 @@ setup(
   description = 'A simple function interface over the PIL image editing in python',   # Give a short description about your library
   author = 'Kevin George',                   # Type in your name
   url = 'https://github.com/kiwuthegamer',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/kiwuthegamer/PIE-PythonImageEditor/archive/refs/tags/v0.2.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/kiwuthegamer/PIE-PythonImageEditor/archive/refs/tags/v0.1.tar.gz',    # I explain this later on
   keywords = ['Images', 'PIL', 'Editing'],   # Keywords that define your package best
   install_requires=['PIL'],
   classifiers=[
